@@ -1,8 +1,6 @@
 # Various-Python-Programs
 
 ## 1. Cooking-Measurement-Converter
-Program that adjusts the amount of each ingredient according to the desired servings
-> Practices use of variables and expressions
 
 ## 2. Wall-Painter
 Program that helps you with your wall-painting projects by
