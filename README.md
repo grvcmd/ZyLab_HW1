@@ -1,6 +1,8 @@
 # Various-Python-Programs
 
 ## 1. Cooking-Measurement-Converter
+Program that converts ingredient measures needed for Lemonade from cups to gallons
+according to the amount of servings needed
 
 ## 2. Wall-Painter
 Program that helps you with your wall-painting projects by
